@@ -1,9 +1,8 @@
 public class Faculty extends Employee {
 
-    public static String LECTURER = "Lecturer";
     public static String ASSISTANT_PROFESSOR = "Assistant Professor";
     public static String ASSOCIATE_PROFESSOR = "Associate Professor";
-    public static String PROFESSOR = "Professor";
+    public static String FULL_TIME_PROFESSOR = "Full Time Professor";
 
     protected String officeHours;
     protected String rank;
